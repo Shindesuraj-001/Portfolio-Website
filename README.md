@@ -1,2 +1,3 @@
 # Portfolio-Website
-This is a basic portfolio website ..... That gives information about me....
+Personal portfolio website using HTML and CSS
+
